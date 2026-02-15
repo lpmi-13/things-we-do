@@ -9,3 +9,7 @@ When possible, links to docs or examples are provided.
 ## Migrations
 
 https://about.gitlab.com/blog/continuously-deploying-the-largest-gitlab-instance/
+
+## Misc
+
+deal with connection pools getting exhausted, weirdness in retry logic, and traffic patterns shifting in a way that happens maybe once a month.
